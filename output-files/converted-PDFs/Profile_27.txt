@@ -1,0 +1,102 @@
+Contact
+9952168340 (Mobile)
+sarveshagrawal@karunya.edu.
+in
+
+www.linkedin.com/in/sarvesh1523
+(LinkedIn)
+sarveshagrawal.tech (Personal)
+
+Top Skills
+Python (Programming Language)
+Machine Learning
+Deep Learning
+
+Languages
+Hindi (Native or Bilingual)
+English (Full Professional)
+
+Certifications
+PadhAI - Deep Learning course
+completion
+Machine Learning
+
+ 
+
+ 
+
+ 
+
+Sarvesh Agrawal
+
+|| MLOps || DevOps Assembly Line || RHEL8 || Deep Learning ||
+Machine Learning || Full Stack Developer (MEAN)
+Bengaluru
+
+Summary
+Presently in 8th Sem working as a Artificial Intelligence Intern at
+Triquetra Healthcare and Technology Pvt Ltd, Bangalore,  aspiring to
+work as a AI/ML Engineer on real time projects in Startup.
+
+Experience
+
+NeuralMinds - Data Science Club
+Public Relations Volunteer
+April 2020 - Present (5 months)
+Bengaluru, Karnataka
+NeuralMinds is Bangalore's AI community with a focus on Data Science
+and Artificial Intelligence. We're also the ambassador of Andrew Ng's
+deeplearning.ai and sponsored by Indegene's Data Science Team as part of
+the AOTC initiative. We will host monthly Meetups, Webinars, and Workshops
+at a conference level, extraordinary experience exchange and focus on
+community.
+
+KarunyaHacks
+Associate Board of Directors
+November 2018 - Present (1 year 10 months)
+Coimbatore, Tamil Nadu
+KarunyaHacks which is a student-run organization in Karunya Institute of
+Technology and Science. We conduct workshops, hackathons, and technical
+events for the betterment of the student community.
+
+Triquetra Healthcare and Technology Pvt Ltd
+Artificial Intelligence Intern
+December 2019 - May 2020 (6 months)
+Bengaluru, Karnataka
+I have refined my strengths over the months of internship and my technical
+expertise includes cross-platform proficiency. The following is a snapshot of
+my broader technical skills :-
++ Web Crawling and Web Scraping to create data for the training model.
+
+Page 1 of 2
+
+ 
+
+ 
+
+ 
+
++ Research and Develop Deep Learning models based on CNN, RNN for
+wakeword detection.
++ Hyper-parameter Tuning for improvising the conduct of the model.
++ Connecting DL model for wake word detection on stream of audio.
++ Implementation of acoustic filtering technique for enhancing the quality of
+audio.
++ Developed a basic RESTful API service for the application.
++ Designed database(MongoDB) structure for the application.
++ Developed 256bit AES Encryption with random key generator for securing
+the audio stream.
+
+Education
+Karunya Institute of Technology and Sciences
+Bachelor of Technology - BTech, Computer Science · (2016 - 2020)
+
+M G M Senior Secondary School, Bhilai
+HSC, Engineering Graphics · (2015 - 2016)
+
+M.G.M Senior Secondary School
+SSC, Mathematics · (2013 - 2014)
+
+Page 2 of 2
+
+

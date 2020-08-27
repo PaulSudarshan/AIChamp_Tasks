@@ -1,0 +1,96 @@
+ 
+
+ 
+
+ 
+
+Contact
+akash.ravikumar12@gmail.com
+
+www.linkedin.com/in/akash-
+ravikumar-40301589 (LinkedIn)
+
+Akash Ravikumar
+
+Manager at EinNel Technologies - IoT & AI Team
+Chennai
+
+Top Skills
+Matlab
+Research
+Team Management
+
+Languages
+Hindi
+English
+Tamil
+
+Summary
+Currently working as Manager for IoT and AI team at EinNel
+Technologies. Knowledge in hardware interfacing and programming.
+Worked on hardware protocols such as UART, SPI, I2C and a little
+in CAN. Also worked on communication protocols such as TCP,
+UDP and MQTT. Posses knowledge in uploading data into and
+querying from various databases (including amazon db's) using
+python and m-scripting. Developed PoC hardware that can perform
+edge computing using data from sensor or from other means. 
+
+Posses knowledge in image processing and signal processing and
+use those features to provide artificial intelligence to the hardware
+using machine learning and deep learning. Has knowledge and
+worked on various classification and regression type problems
+and built models using both machine learning and deep learning
+algorithm. 
+
+Has worked on Health care IoT for adults and infants and have
+developed PoC hardware that can perform edge computing, which
+involves acquiring various vitals from human body via sensors and
+developed ML models to distinguish various noises made by the
+patient. Programmed hardware to make API calls to control it in from
+anywhere and also to update its health status and sensor working
+status. Worked on IIoT projects for providing safety to personals
+at shop floor and also to provide solution for machine idling time
+calculation for better productivity and fraud identification. Designed
+and programmed custom attendance management system for
+workers. Worked on projects related to Automotive field by building
+PoC hardware for an autonomous car. performed data analytics
+for Multi-Disciplinary optimization in full vehicle level. Developed
+Algorithm for fleet management system by acquiring data from the
+ECU, image processing and machine learning.
+Strong team player with technical knowledge, interpersonal skills &
+managerial skills helped me get promoted to the position I'm at now. 
+
+Page 1 of 2
+
+ 
+
+ 
+
+ 
+
+Holds Masters Degrees in Electronics Engineering from KTU,
+Kaunas, Lithuania.
+
+Experience
+
+EinNel Technologies
+3 years 8 months
+Project Manager
+February 2018 - Present (2 years 7 months)
+Chennai Area, India
+
+Associate Software Developer
+January 2017 - January 2018 (1 year 1 month)
+Chennai Area, India
+
+Education
+Kaunas University of Technology
+Master's degree, Electronics Engineering · (2014 - 2016)
+
+Anna University
+Bachelors in Engineering, Electronics and Communication
+Engineering · (2010 - 2014)
+
+Page 2 of 2
+
+

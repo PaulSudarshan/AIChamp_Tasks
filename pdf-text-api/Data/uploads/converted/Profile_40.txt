@@ -1,0 +1,162 @@
+ 
+
+ 
+
+Contact
+1904 B, Woodmar Drive, Houghton,
+MI49931
+dennison@mtu.edu
+
+www.linkedin.com/in/
+jaisilrosedennison (LinkedIn)
+github.com/RoseJaisil (Other)
+www.kaggle.com/jaisilrose (Other)
+
+Top Skills
+Medical Image Processing
+Matlab
+Python(Medical image processing)
+
+Languages
+Telugu (Elementary)
+English (Full Professional)
+Malayalam (Professional Working)
+
+Certifications
+Intermediate Python for Data
+Science
+Fundamentals of Project planning
+and Management
+Intro to Machine Learning
+Image Data Augmentation using
+Keras
+Deep Learning On-ramp
+
+Honors-Awards
+Grade 2 of Music
+Value Education Workshop On
+Leadership
+Hackathon(Surgical Innovation)
+
+Publications
+Application Of Selective Region
+Growing Algorithm In Lung Nodule
+Segmentation
+APPLICATION OF DECISION
+TREE BASED SUPPORT VECTOR
+MACHINE IN  LUNG NODULE
+CLASSIFICATION
+
+ 
+
+Jaisil Rose Dennison
+
+Graduate Student| AI in medicine| Kaggler
+Houghton
+
+Summary
+3D Medical image analysis for telesurgical vision system and
+diagnostic purpose is my area of interest. With two internships and
+two projects in hands relevant to medical image processing, I am
+pursuing my master’s in computer engineering.           "Let your
+innovation be with compassion and passion"
+
+My passion for innovation is about medical image analysis. I fell in
+love with this field of telesurgical vision after attending a workshop
+conducted by LANCET Commission on Global Surgery for surgical
+services in rural regions. I am in my pursuit to innovate for tele
+surgical vision system.
+
+Currently I am doing master’s in computer engineering with special
+focus on image analysis. As a part of curriculum, I did courses and
+projects related to medical image processing and image processing.
+I had a chance to do Coop in Promaxo where I learned about 3D
+medical image processing and python. 
+
+I did my undergrad in Electronics and communication engineering
+with a specialization in signal processing. The part of the curriculum
+includes projects, seminar presentations and paper presentations
+which enhanced my skills for real world problem. One of my favourite
+projects is Lung cancer detection using decision tree based SVM
+where I earned experience about image data manipulation, machine
+learning. Presented two papers and got published in IEEE journal.
+I had a two weeks internship training on image processing in UNIQ
+technologies where I learned about image processing using matlab.
+
+The most valuable achievement that I would say is the winning
+in Hackathon conducted by LANCET Commission on Global
+Surgery for surgical services in rural regions. We as a team named
+'Lungathon'  presented about the lung cancer detection using
+Decision tree based SVM algorithm and won the second place.
+
+Page 1 of 3
+
+ 
+
+ 
+
+ 
+
+I am also passionate about music and singing (gospel).
+
+Experience
+
+Michigan Technological University
+1 year 8 months
+Graduate Student
+January 2019 - Present (1 year 8 months)
+Houghton, Michigan, US
+
+Learning Center Coach
+September 2019 - December 2019 (4 months)
+Houghton
+Help students and peer in learning the electrical and electronics concepts.
+Enjoying this work cause I love teaching while I am learning.
+
+Grader
+September 2019 - December 2019 (4 months)
+Houghton, Michigan
+Grader for the subject of Laser systems. Helping the staff in grading the
+academic works like assignments of the student. Getting some experience in
+the academic working environment and reinforcing my laser system concepts.
+
+Promaxo
+MRI Engineer Intern
+January 2020 - April 2020 (4 months)
+Oakland California
+A new start in my field [ Medical Image Analysis ]. Got to engage with a vibrant
+team where I had a chance to work on project.
+Got some hands on experience in Python itk, mayavi libraries.
+Got experience on 3D image registration using python.
+Had a chance with team comprising people from different department.
+
+Graduate Student Government at Michigan Technological University
+Electrical and Computer Engineering Representative
+October 2019 - January 2020 (4 months)
+Houghton, Michigan
+
+Uniq Technologies
+Image Processing Intern
+December 2016 - December 2016 (1 month)
+Page 2 of 3
+
+ 
+
+ 
+
+ 
+
+Coimbatore Area, India
+Learnt hands on experience on matlab for image processing and part of it, we
+as an intern team completed project titled ' Brain Tumor Detection using GUI'.
+
+Education
+Michigan Technological University
+Master of Science - MS, Computer Engineering · (2019 - 2021)
+
+Karunya Institute of Technology and Sciences
+B-Tech,  Electronics and Communications Engineering · (2014 - 2018)
+
+Page 3 of 3
+
+

@@ -1,0 +1,114 @@
+ 
+
+ 
+
+ 
+
+Contact
+prateekjpg@gmail.com
+
+www.linkedin.com/in/prateekjpg
+(LinkedIn)
+
+Prateek Gupta
+
+Intern at GeeksforGeeks | Former intern @ Crio Launch | SkyBits
+Technologies Pvt. Ltd.
+Kolkata
+
+Top Skills
+Python
+JavaScript
+React.js
+
+Languages
+Hindi (Native or Bilingual)
+English (Professional Working)
+
+Certifications
+JavaScript Algorithms and Data
+Structures
+ACM ICPC 2017 Asia Chennai First
+Round Online Programming Contest
+Swift Fundamentals
+SQL Fundamentals
+Snackdown 2017 Pre-Elimination
+Round
+
+Honors-Awards
+1st Runner-Up | Codacharya
+Infosys Certified Software
+Programmer
+
+Publications
+Predicting Invasive Ductal
+Carcinoma(ICD) in tissue slices
+using PyTorch
+
+Summary
+Computer Science enthusiast and a third-year student at Indian
+Institute Of Infomation Technology, Kalyani pursuing Computer
+Science and Engineering.
+
+Experience
+
+GeeksforGeeks
+Technical Content Writing Intern
+May 2020 - Present (4 months)
+Responsible for writing technical articles and codes related to Python, Java,
+Data Structures and Algorithm.
+
+Conscript
+Student Intern
+April 2020 - May 2020 (2 months)
+Built a Job Aggregator web app which aggregates jobs from the major job
+listing sites. Uses filters to refine the aggregated jobs according to job title and
+job location. Majorly used web scraping using Python modules -
+• BeautifulSoup + Requests
+• Scrapy
+• Selenium + Chromedriver
+• Flask + Gunicorn + Heroku (For Web App and Hosting)
+Link to web app - https://conscript-work.herokuapp.com/
+
+The IoT Academy
+Intern
+March 2020 - April 2020 (2 months)
+Built an automatic detector for COVID-19 from X-ray images of lungs using
+OpenCV, Keras and Tensorflow in Deep Learning under the problem
+statement - "Predict the COVID-19 status in the current Indian scenario"
+
+Crio.Do
+Student Developer at Crio Launch
+
+Page 1 of 2
+
+ 
+
+ 
+
+ 
+
+February 2020 - April 2020 (3 months)
+
+SkyBits Technologies Pvt. Ltd.
+Summer Intern
+May 2019 - July 2019 (3 months)
+Kolkata Area, India
+Worked on a software project to build a smart resume classifier which returns
+most appropriate resumes based on job descriptions provided. Used Deep
+Learning in Natural Language Processing with spacy and gensim module in
+Python.
+
+Education
+Indian Institute of Information Technology  Kalyani
+Bachelor of Technology (B.Tech.), Computer Science · (2016 - 2020)
+
+City Montessori Inter College, Lucknow
+Intermediate, Mathematics and Computer Science · (2008 - 2015)
+
+Study Hall School, Lucknow
+ · (2000 - 2008)
+
+Page 2 of 2
+
+

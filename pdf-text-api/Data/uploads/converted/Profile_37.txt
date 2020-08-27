@@ -1,0 +1,258 @@
+Contact
+Jalandhar , Punjab
+das.anshuman2018@gmail.com
+
+www.linkedin.com/in/ianshu
+(LinkedIn)
+whoisanshuman.netlify.app/
+(Portfolio)
+www.seconset.in (Blog)
+
+Top Skills
+Ethical Hacking
+Python
+C++
+
+Languages
+English (Full Professional)
+Hindi (Professional Working)
+Bengali (Native or Bilingual)
+
+Certifications
+Certified Ethical Hacking
+Professional 
+Ethical Hacking: Social Engineering
+OWASP Top 10: #3 Sensitive Data
+Exposure and #4 External Entities
+(XXE)
+Summer Training in C/CPP
+Penetration Testing: Advanced Web
+Testing
+
+Honors-Awards
+Hall Of Fame
+Hall Of Fame
+Recognition for Securing India's
+Cyber Space
+
+Publications
+My Journey to become a Vouched
+Mozillian
+
+ 
+
+ 
+
+ 
+
+Anshuman Das‍
+
+Offensive Security Researcher
+Jalandhar
+
+Summary
+Anshuman is a techgeek who is curious about various technologies
+and loves to explore in daily basis and concerns about Security and
+Privacy.
+
+•Professionally he is a Cyber Security Researcher, Penetration
+tester, CTF player and an Ethical Hacker and Advocate for Privacy.
+He is also a Technical Content Writer love to share his knowledge
+through write-ups and blog.
+
+#Python #C/C++ #Java #Bash #Operating System #Database
+Management #Networking #Linux #Ethical Hacking #Pentesting
+#CTF Technical Content Writing
+
+:
+✔#Wireshark ✔#BurpSuite ✔#JohnTheReapper ✔#Nmap
+✔#Gobuster ✔#Nikto ✔#Metasploit ✔#Hashcat 
+
+•In spite of these he loves to do Community works whether it is
+building a community or serving for community:
+
+He serves for Mozilla Community in various Privacy Campaigns.
+
+He serves for GirlScript Foundation whose motto is to provide free
+and quality education to enthusiast geeks all over India.
+
+He mentors the beginners to start their journey in Cybersecurity field.
+Trained more than 200+ schools & college students all over India.
+
+He is currently leading a open Cybersecurity Community as well as
+platform : SecOnset (www.seconset.in)  
+
+:
+
+Page 1 of 5
+
+ 
+
+ 
+
+ 
+
+☀#Speaker ☀#Leadership ☀#Teamwork ☀#Comunicaton
+☀#Nagotiation ☀#Presentation ☀#Team Building ☀# Mentoring
+
+----------------------
+Do You want to explore /learn /discuss related to CyberSec field/
+Open-Source/Community Building then hit him up anytime 
+
+: anshuman.11701200@gmail.com(queries/discussion/suggestions)
+
+:anshuman@seconset.in(organization related)
+
+Experience
+
+SecOnset
+Team Lead
+February 2020 - Present (7 months)
+SecOnset is an E-Learning Platform as well as Blog for those(school & college
+students) who want to start their adventurous career journey in Cybersecurity
+field.
+As a Platform it provides :
+- Resources(Write-ups, Tutorials and ebooks etc.) for free to start journey in
+Cybersecurity
+a lot more to come !
+for more info : https://www.seconset.in
+
+Ittoolstraining
+Campus Ambassador Lead
+July 2020 - Present (2 months)
+Here my responsibilities are as follows :
+- Managing a group of Campus Ambassadors 
+- Assign them their task
+- Make them understand their respective tasks and help them with proper
+guidance to clear their doubts 
+- Help them to grow personally and professionally  
+
+Hack The Box
+Hacker
+March 2020 - Present (6 months)
+
+Page 2 of 5
+
+ 
+
+ 
+
+ 
+
+Just Started exploring this platform ! Enjoying the Learning while hunting down
+those machines !
+
+Mozilla Punjab
+11 months
+Organizer
+January 2020 - Present (8 months)
+
+Core Member
+October 2019 - Present (11 months)
+Jalandhar Area, India
+It a community mainly focusing on PRIVACY AND SECURITY of every
+individual. Open Source is becoming more powerful gradually as Mozilla.
+Organized events: 
+# Hacktoberfest - 2019
+# AutumnHacks - 2019
+# Common Voice for Mozilla -2019
+# Internet Health Day -2020
+# Online Meetups and Webinars
+Contributions : 
+# Localization for Mozilla Projects 
+# Bugzilla - Reporting Bug
+# Mozilla Open Design - Graphics Designing.
+
+Campaigns: 
+Localization Team in Privacy Month Campaign - 2020
+Public Money, Public Code ( ongoing)
+
+My Journey of becoming Vouched Mozillian:
+
+https://medium.com/mozilla-india/tour-de-force-got-my-first-vouch-proud-
+mozillian-cae1be94a9a7
+
+Bugcrowd
+Cyber Security Researcher
+March 2020 - Present (6 months)
+• Web Application Bug Hunting
+• 6+ Hall of Fame
+
+Page 3 of 5
+
+ 
+
+ 
+
+ 
+
+TryHackMe
+Pen-testers /CTF player
+February 2020 - Present (7 months)
+THIS IS A PLATFORM WHERE I TEST MY SKILLS IN HACKING THROUGH
+CTF challenges and BREKING THROUGH REAL SYSTEMS. IT PROVIDES
+REAL LIFE SCENARIOS.
+
+Level 9(OMNI) in this platform!
+
+WhiteMax Software Solution
+Penetration Tester
+May 2020 - Present (4 months)
+Jalandhar, Punjab
+Here my responsibilities are :
+
+• Conduct Tests on network and web application
+• Conducts security audits 
+• Analyze security policies
+• Writing Security Assessment report
+
+IncludeHelp
+1 year 3 months
+Intership Coordinator
+October 2019 - February 2020 (5 months)
+
+Technical Content Writer
+December 2018 - February 2020 (1 year 3 months)
+
+GirlScript Foundation
+Community Organizer
+June 2019 - February 2020 (9 months)
+Jalandhar Area, India
+a non-profit organization which is focusing on motivating youth in the field of
+various technologies. It is my pleasure working with this growing organization
+as a community organizer in Jalandhar chapter. Overall in India there are 36
+chapters and 2 global chapters.
+Organized events :
+Git and GitHub - 2019
+Hacktoberfest - 2019
+AutumHacks - an exclusive Hackathon - 2019
+
+Page 4 of 5
+
+ 
+
+ 
+
+ 
+
+GirlScript India Summit - 2019
+CFP Day -2020
+
+AppDividend
+Technical Content Writer
+April 2019 - July 2019 (4 months)
+
+RiseLPU
+Coordinator
+September 2017 - December 2018 (1 year 4 months)
+
+Education
+Lovely Professional University
+BTech - Bachelor of Technology, Computer Science · (2017 - 2021)
+
+Rampurhat JL Vidyabhaban
+Higher Secondary, Physics Chemistry Math · (2014 - 2016)
+
+Page 5 of 5
+
+

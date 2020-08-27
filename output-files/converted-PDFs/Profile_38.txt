@@ -1,0 +1,285 @@
+Contact
+vsu556@gmail.com
+
+www.linkedin.com/in/umang-
+sharma-datascience (LinkedIn)
+umangsharma.in (Personal)
+
+Top Skills
+Machine Learning
+Research
+Algorithms
+
+Languages
+English
+Hindi
+
+Certifications
+Neural Networks and Deep Learning
+Intro to TensorFlow
+
+Honors-Awards
+ACE Award (Accenture Celebrates
+Excellence)
+
+ 
+
+ 
+
+ 
+
+Umang Sharma
+
+Data Scientist at Deloitte | Author of an Upcoming Deep Learning
+Book | Tech Speaker| Open Source Contributor
+New Delhi
+
+Summary
+Umang is a Data Scientist/Deep learning Engineer with love for Deep
+Learning and Maths Behind Deep Learning. He is well versed with
+Probability,Statistics and Calculus.
+He is skilled in all aspects of data science from gathering the
+problem to Deep learning to deploying models in production.
+
+He has worked on a number of problems in Computer Vision,
+Generative Modeling, NLP, Time Series, Text classification,
+Predictive modelling, Conversational AI platforms, Image
+classification and lightweight ML web-app and worked with all types
+of Deep learning architectures in CNN, RNN, GANs and so on.
+
+He is the author of a book on Deep Learning with TensorFlow (Not
+Python).
+He is highly skilled in TensorFlow, Mxnet and other Deep learning
+frameworks also in GPU computing and HPC and distributed
+computing.
+
+He has a keen interest in application architectures and loves to
+design and develop end-to-end solutions using multiple cloud
+services like Google Cloud, AWS,Azure
+Umang in also skilled in multiple related components of Data
+Science from Data exploration, PySpark and Visualizations.
+In his free time he contributes to open source, speak at Tech
+conferences,Tech events.
+He was an official Speaker of Google DevFest 2018 and Google
+Machine Learning crash course Pune 2018 and keynote speaker at
+multiple Deep learning conferences.
+For detailed list of the talks he has given so far please visit :
+http://umangsharma.in/talks.html
+He also got featured in Google's machine learning crash course
+magazine multiple times.
+**VIEWS ARE MY OWN**
+
+Page 1 of 6
+
+ 
+
+ 
+
+ 
+
+Experience
+
+Deloitte
+Data Scientist/Deep Learning Engineer
+April 2019 - Present (1 year 5 months)
+Gurgaon, India
+The role requires both being a hands on Deep learning Data scientist as well
+lead a team of Data scientists, some projects I have done so far
+1.Image Anomaly detection using Generative Models
+2.Person Pose Estimation on Live video feed using Deep learning
+3.Time-series forecasting using a combination of  Deep learning and statistical
+algorithms.
+4.Automatic video captioning using novel architectures in Deep learning 
+5.Image domain adaptation using Deep learning
+6.Distributed ML training using optimised distributed training algorithms over
+cluster of GPUs, CUDA,CUDNN and other parallel computing frameworks
+7.Entity recognition using NLP Deep learning architectures.
+8.End to End design of Cloud AI Application architectures using Multiple Cloud
+Platforms.
+9.High volume data science applications involving use of distributed computing
+such as PySpark.
+
+Preprint
+Author
+April 2019 - Present (1 year 5 months)
+India
+Authoring of a book on Deep Learning with TensorFlow (Not in Python!) . The
+book intends to teach state of the art latest Deep learning models/algorithms
+along with end to end Deep learning Application Development, tries to explain
+the calculus, probability behind the model architectures as simply as possible.
+The book covers CNNs, RNNs, Generative modelling, reinforcement learning
+and much more!
+Currently in Pre-Print
+
+Various Different Technologies
+
+Page 2 of 6
+
+ 
+
+ 
+
+ 
+
+Open Source Contributions/Personal Projects/Kaggle DataScience
+Competitions/Tech Speaker
+October 2017 - Present (2 years 11 months)
+Pune Area, India
+• Recent Open Source Contributions:
+TensorFlow JS IntelliJ Plugin:
+Created TensorFlow JS plugin for IntelliJ and other JetBrains IDEs ,wrote
+lexer,parser,code Completion and AST logic for it from scratch for it in
+Java ,implemented Factory Design Pattern and few more design patterns.
+
+Google Datalab (A data science integrated offering by Google): 
+1.Made major changes in the Dockerfile of Google Datalab,which enabled
+IDE like features(Code Highlighting ,instance highlighting) to the Application's
+Jupyter notebook front-end 
+2.Made major changes in their python based CLI (command line interface)
+tools - which enabled users to see a message on application in case of issues/
+errors.
+3.Packaged Python packages to the Docker image of the application to enable
+autocompletion   features in the application
+
+• Algorithmic and Data Structure Solutions
+I open sourced my solutions to classic algorithmic problems on
+github(Fractional Knapsack,DP Change problem and lot more)
+and also implementation of classic Data structures (Binary Search
+trees,heaps,LinkedLists HashMap etc)
+
+• I maintain and developed a website about me umangsharma.in.Used a
+number of technologies from HTML,CSS ,JavaScript ,PHP ,Bootstrap and so
+on
+
+•Tech Speaker of Various national level tech events and conferences recently I
+have spoken at :Google DevFest 2017,Google Machine learning crash course
+2017 Pune , TensorFlow Machine learning study jam 
+• I participate in Kaggle DataScience Competitions.
+In my last kaggle competition I was in world top 25% 
+
+Accenture Digital Analytics
+Associate- Machine Learning and Applications Development 
+March 2017 - March 2019 (2 years 1 month)
+Pune Area, India
+
+Page 3 of 6
+
+ 
+
+ 
+
+ 
+
+I am part of the Accenture Digital's Internal Product Development Team which
+is building Data Science and Analytics applications in Insurance domain .My
+responsibilities include the initial research, selecting/developing the right
+machine algorithm, developing Full stack (both UI/UX and back end)of the ML
+application and also doing the Big data computations. So far I have:
+
+- Built Regression Trees,Ridge regression(and few more ML algorithms)
+based Predictive analytics applications from scratch using Big
+Data,Java,Python,BackboneJS,HighCharts JS, UnderscoreJS and PySpark,
+enabling clients to see both predicitive and descriptive analytics .
+- Built Naive Bayes algorithm based chatbots using DJango Framework and
+JS to enable easy interaction with users and enabling them see social media
+sentiment analysis too. 
+-Built NLP based Sentimental analysis applications using multiple NLP
+techniques, Python and Data pulling APIs to classify tweets of a particular
+twitter handle as positive,negative or neutral. 
+- Have written Python Scripts to automate the Data Pre processing and
+Analysis of 5 billion rows of data ,which was 20% faster than previous method.
+- Developed automated flows of data science from fetching to cleaning to
+dumping on BigData to analysis of large amount of data using batching
+algorithms 
+- Integrated 3rd Party Data visualization tools to our Analytics ML Applications
+so as to provide better analytics and descriptions to the users.
+- Prepared codes in multiple languages so as to automate a lot of Big data
+operations in our Big Data Environment which decrease reading operation time
+by 40%.
+- Have written bash scripts to automate the data fetching from multiple sources
+for fast data collections increasing speed of data collection by 50%
+
+Peepin App , Contextual Experiences Pvt Ltd
+Solution Design Engineer
+September 2016 - February 2017 (6 months)
+Gurgaon, India
+My responsibilities in this tech startup were:
+
+- Creating a neural network based Computer vision system, which could
+classify crowd state from a video feed as crowded, empty and mildly crowded
+in C++ and Python .
+
+Page 4 of 6
+
+ 
+
+ 
+
+ 
+
+- Created a face detector application, which could take feed from low quality
+cameras and could recognize people in it and their facial features in real time
+in C++.
+- Responsible for creating the whole data warehouse and data mining and
+analytics system for the company, which included data from IOS, Android app,
+server, CRM and website
+- Created an IoT system to connect 100s of IoT devices together using
+Linux Docker containers in a highly secure way, making the management ,
+maintenance and deploying codes on the devices easier ,fast and reliable
+- Created a neural net system to identify and increase/decrease brightness of
+video in real time
+
+CERN CMS Physics Center ,University of Delhi
+Summer Undergraduate  Researcher
+June 2015 - September 2015 (4 months)
+New Delhi Area, India
+Worked on the Higgs boson Decay Channel H->ZZ->4l.
+Simulating the Proton Proton collisions of the Large Hadron Collider (LHC)
+at the centre of mass energy 14 TeV using the event generator Pythia and
+analysing the data generated through CERN's data analysis framework ROOT.
+
+Also considering and generating various major reducible and irreducible
+backgrounds in the channel for my analysis (ZZ* ,ttbar etc).
+Wrote the code right from the scratch in the language C++ . 
+
+Background process generations are used for analysing and removing the
+similar processes which are replicating the Higgs Decay Channel .
+
+Satisfactory results came in the project .
+
+Inter University Center for Astronomy and Astrophysics
+Summer Research Fellow,Indian Academy of Sciences
+June 2014 - August 2014 (3 months)
+Pune Area, India
+Worked on a research project involving High Energy Astrophysics,Scientific
+Computing and Simulations.The project title was "Monte Carlo Simulation of
+radiative transfer through magnetic plasma".
+I used different scientific computing tools such as GNU plot,Mathematica etc
+and wrote code for simulation right from the scratch in the language C++
+
+Page 5 of 6
+
+ 
+
+ 
+
+ 
+
+I also did theoretical astrophysics while collaborating with some scientists there
+as a part of my project.
+Apart from my project work I also helped a number  of Graduate Students with
+their research problems.
+
+Education
+Guru Gobind Singh Indraprastha University
+Bachelor of Technology (BTech), Information Technology · (2012 - 2016)
+
+Heera public school
+ · (1997 - 2012)
+
+University of Allahabad
+Junior Diploma, Music Theory and Composition · (2007 - 2009)
+
+Page 6 of 6
+
+

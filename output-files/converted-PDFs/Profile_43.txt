@@ -1,0 +1,289 @@
+Contact
+jason.brownlee05@gmail.com
+
+www.linkedin.com/in/
+jasonbrownlee (LinkedIn)
+
+Top Skills
+Data Science
+Deep Learning
+Machine Learning
+
+Honors-Awards
+Australian Computer Society Student
+Award
+Aspect Scholarship Prize
+Australian Postgraduate Award
+Scholarship
+Complex Intelligent Systems
+Laboratory Summer Scholarship
+1st Prize, AI-Depot Artificial
+Intelligence Writing Competition
+
+Publications
+Mobile Game Engines: Interviews
+with Mobile Game Engine
+Developers
+Master Machine Learning Algorithms
+Probability for Machine Learning
+Clever Algorithms: Nature-Inspired
+Programming Recipes
+Better Deep Learning
+
+ 
+
+ 
+
+ 
+
+Jason Brownlee
+
+Making Developers Awesome at Machine Learning
+Greater Melbourne Area
+
+Summary
+Jason Brownlee, Ph.D. is a machine learning specialist who teaches
+developers how to get results with modern machine learning and
+deep learning methods via hands-on tutorials.
+
+Experience
+
+Machine Learning Mastery
+Founding Researcher
+November 2013 - Present (6 years 10 months)
+Melbourne, Australia
+Machine Learning Mastery is a community that offers 1,000+ tutorials and
+19+ eBooks to help developers get started and get good at applied machine
+learning.
+
+Machine learning is taught using a highly productive top-down and results-
+focused approach that is counter to the math-heavy academic approach taken
+by the rest of the industry.
+
+Learn more: http://MachineLearningMastery.com
+
+Selected Ebook Titles:
++ Imbalanced Classification with Python, 2020
++ Generative Adversarial Networks with Python, 2019.
++ Deep Learning for Computer Vision, 2019.
++ Deep Learning for Time Series Forecasting, 2018.
++ Deep Learning For Natural Language Processing, 2017.
++ Long Short-Term Memory Networks With Python, 2017.
++ Deep Learning With Python, 2016.
++ XGBoost With Python, 2016.
+
+And many more.
+
+Bureau of Meteorology
+
+Page 1 of 6
+
+ 
+
+ 
+
+ 
+
+Senior Software Engineer
+March 2010 - May 2016 (6 years 3 months)
+Melbourne, Australia
+Development and support of tropical cyclone forecasting systems used by
+severe weather meteorologists in Australia and the South Pacific for analysis
+and warnings. 
+
+Senior member of the high impact weather systems development team and
+collaborated with meteorologists, policy and research scientists on projects.
+Specialty in modeling systems, ensembles, and interactive forecasting
+tools. Agile engineering practices such as test-driven development, pair
+programming, and continuous integration.
+
++ Responsible for ongoing development and maintenance of desktop software
+used by severe weather forecasters for forecasting tropical cyclones on Linux
+with Swing/Java/Oracle. Highlights include the addition of ensemble support
+and interactive intensity forecasting tool.
++ Responsible for internal tools such as email summaries of live products and
+a web-based system to present statistical summaries of cyclone data and
+model verification statistics.
++ Responsible for the operationalization, maintenance, and verification of
+server-side ensemble model to forecast the probability of wind above wind
+speed thresholds in FORTRAN/Java/BASH (DeMaria and Knaff 2009 model).
++ Responsible for the extension of the ensemble wind probability model for use
+in storm surge modeling involving multivariate statistical analysis and linear
+algebra in FORTRAN/LAPACK (Kepert 2014 model).
++ Responsible for support of software systems for tsunami analysis and
+warning in Australia and the Indian Ocean with Linux/IDL.
++ Responsible for supporting and maintaining the international standard for
+describing cyclone tracks in XML called Cyclone XML (CXML).
++ Responsible for supporting and visiting severe weather meteorologists at
+field locations in Australia and in the South Pacific.
+
+Selected Publications:
++ Estimating TC Wind Probabilities in the Australian Region, 2013.
+
+MobileGameEngines.com
+Founding Writer
+2012 - 2014 (2 years)
+Melbourne, Australia
+
+Page 2 of 6
+
+ 
+
+ 
+
+ 
+
+Design and development of a website, interviews, and series of books on
+game engines and game engine developers for mobile platforms including
+Apple and Android.
+
++ Responsible for development and support of the website on Heroku/Ruby-
+on-rails.
++ Responsible for interviewing mobile game developers and mobile game
+engine developers.
++ Responsible for editing and writing two books on the industry of mobile game
+development.
+
+Selected Publications: 
++ Mobile Game Engines: Interviews With Mobile Game Developers, 2012.
++ Mobile Game Engines: Interviews With Mobile Game Engine Developers,
+2013.
+
+Clever Computations
+Founding Consultant
+2010 - 2014 (4 years)
+Melbourne, Australia
+Consulting services involving the analysis of customer behavior and
+interventions for software-as-a-service (SaaS) businesses.
+
++ Responsible for data gathering, filtering and cleaning from client
+stakeholders.
++ Responsible for the application of statistical and machine learning modeling
+of client data.
++ Responsible for the interpretation and presentation of results and suggestion
+of interventions.
++ Wrote, released and marketed a book on stochastic optimization methods
+with code examples in the Ruby programming language. Code and book
+released under an open source license.
+
+Selected Publications:
++ Clever Algorithms: Nature-Inspired Programming Recipes, 2011.
+
+AOS Group
+Research Engineer
+January 2009 - February 2010 (1 year 2 months)
+Melbourne, Australia
+
+Page 3 of 6
+
+ 
+
+ 
+
+ 
+
+Research and development (R&D) into the use of multi-agent systems for
+applications in aviation and defense. Domestic and international clients such
+as the Australian Defence Science and Technology Organisation (DSTO) and
+Northrop Grumman Corporation.
+
++ Responsible for technical pre-sales meetings on the applicability of agent
+and multi-agent technologies with clients, on site.
++ Responsible for the development and presentation of multi-agent based
+solutions to complex defense problems.
++ Responsible for development of a clean-room implementation of a Belief-
+Desired-Intentions (BDI) agent architecture in ANSI C.
+
+Mayhem Method
+Cofounding Engineer
+2008 - 2008 (less than a year)
+Melbourne, Australia
+Strategy and engineering for a range of small direct to consumer SaaS
+websites.
+
++ Responsible for the formation of the project team.
++ Responsible for development and maintenance of Web/Ruby-on-Rails
+software as a service (SaaS) applications.
++ Responsible for the content marketing of the business and applications.
+
+Websites Included:
++ A Bit of Pluck (mobile meetup, from a startup camp 2008)
++ Spicy Elephant (flash cards)
++ Screen Sponge (movie tracking and lending)
++ Comment is King (online conversation consolidation)
++ Five Second Test (usability test, now owned by UsabilityHub)
+
+The Portland House Group Pty. Ltd.
+Research Engineer
+2006 - 2006 (less than a year)
+Melbourne, Australia
+Development of systems with stochastic optimization algorithms (genetic
+algorithms) for the purposes of optimizing stock portfolios.
+
++ Responsible for developing systems for data ingestion and retrieval.
+
+Page 4 of 6
+
+ 
+
+ 
+
+ 
+
+Shine Technologies
+Consultant
+2000 - 2004 (4 years)
+Melbourne, Australia
+Enterprise software development for corporate clients, mostly in teams and on-
+site. Specialty in Linux, backend engineering and scalable server-side systems
+with multi-threading. 
+
+Adoption of early agile engineering practices such as pair-programming,
+extreme programming, test-driven development and more.
+
++ Responsible for developing and maintaining a webmail system on Linux/
+PHP/MySQL/LDAP with IMAP/Horde to support multiple domains (Spotlight
+Online).
++ Responsible for documenting internal high-throughput multithreading library
+with Java/Multithreading.
++ Responsible for developing internal developer tools for database code
+generation with Java/Swing (Tru Energy/EnergyAustralia).
++ Responsible for prototyping machine learning-based anomaly detection for
+statement verification (Tru Energy/EnergyAustralia).
++ Responsible for and reports and tutorials on emerging Java technologies
+(e.g. Java Struts web framework).
++ Responsible for developing and maintaining a Payment Gateway on Tomcat/
+JSP/Java/Struts (Loyalty Pacific/FlyBuys).
++ Responsible for developing a self-managed super fund web application Java/
+JSP/Struts (Australian Clearing Services).
++ Responsible for developing a multi-threaded high-throughput query
+processor on Java, Java Messaging Service (JMS), Sun One App Server, and
+RMI interfacing Yellow Pages and White Pages data stores (Sensis/Telstra).
+
+Education
+Swinburne University of Technology
+Doctor of Philosophy - PhD, Artificial Intelligence · (2005 - 2008)
+
+Swinburne University of Technology
+Master's degree, Artificial Intelligence · (2003 - 2004)
+
+Swinburne University of Technology
+Bachelor's Degree, Applied Science (Computing) · (2002)
+
+Page 5 of 6
+
+ 
+
+ 
+
+ 
+
+RMIT University
+Course, Introduction to Psychology · (2003)
+
+RMIT University
+Advanced Diploma, Information Technology · (2000)
+
+Page 6 of 6
+
+

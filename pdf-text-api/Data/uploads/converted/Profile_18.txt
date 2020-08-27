@@ -1,0 +1,258 @@
+ 
+
+ 
+
+Contact
+pushker@pushker.org
+
+www.linkedin.com/in/pushker
+(LinkedIn)
+www.pushker.org (Personal)
+
+Top Skills
+Bioinformatics
+Computational Biology
+R
+
+Languages
+Spanish (Limited Working)
+English (Native or Bilingual)
+
+Certifications
+AWSome Day: AWS Cloud Training
+C++ and Object Oriented
+Programming
+AWS Fundamentals Specialization
+Big Data & Hadoop
+Python 3 Programming
+Specialization
+
+Honors-Awards
+Technology Recognition Award
+Genomics & Data Science - Platform
+Award
+People Spotlight
+Predictive Analytics Challenge -
+2016
+Genomics & Data Science - Platform
+Award
+
+Publications
+Meta-analysis to test the association
+of HIV-1 nef amino acid differences
+and deletions with disease
+progression
+Genome architecture and evolution
+of bacterial pathogens
+Data driven decisions for accelerated
+plant breeding
+
+ 
+
+Pushker Ravindra
+
+Data Science | Engineering | Analytics
+Bengaluru
+
+Summary
+B.Tech. from IIT Kanpur, Ph.D. from UCD Ireland and Executive
+General Management from IIM Bangalore. 13+ years of experience
+at international R&D organizations across academia, startups,
+and MNCs. Successfully transformed multiple projects to Agile
+and implemented DevOps / DataOps. Passionate about the best
+practices in data science & engineering, internal employee up-
+skilling via Data/Digital Fluency, and external talent development
+via data science outreach. Currently, leading Data Science &
+Engineering team at Bayer Crop Science, Bangalore, and enabling
+data modernization, automation of data pipelines, to build enterprise
+data assets for crop science.
+
+Experience
+
+Bayer Crop Science
+2 years 1 month
+Data Science & Engineering Lead
+July 2020 - Present (2 months)
+Bengaluru, Karnataka, India
+- Leading Data Science & Engineering team. 
+- Promoting best practices in data science & engineering, internal employee
+up-skilling, and external talent development via data science outreach.
+- Leading Data/Digital Fluency, the internal employee up-skilling program
+where they get trained in latest data science skills.
+
+Data Engineering Lead
+January 2020 - June 2020 (6 months)
+Bangalore
+- Led Data Engineering team to enable data modernization and automated
+data workflows via data engineering solutions.
+
+Data Analytics Lead
+August 2018 - January 2020 (1 year 6 months)
+Bangalore
+
+Page 1 of 5
+
+ 
+
+ 
+
+ 
+
+Comparison of prokaryotic diversity
+at offshore oceanic locations
+reveals a different microbiota in the
+Mediterranean Sea
+The silencing of pseudogenes
+
+- Led Data Analytics team, building analytics solutions including predictive and
+prescriptive analytics.
+- As Data Fluency Lead, mentored 200+ employees and promoted external
+talent development via data science outreach to 1000+ postgraduate students.
+
+Monsanto
+Data Analytics Lead
+July 2013 - August 2018 (5 years 2 months)
+Bangalore, India
+Data Analytics Lead, Data Scientist, Computational Biology Scientist, Data
+Fluency Lead, Project/People Manager, Agile Transformation Lead
+
+- Led Data Fluency, the data science up-skilling program for internal
+employees and mentored 200+ people from IT (R&D, Breeding), Data Science,
+Digital Foundation, Shared Services and Competitive Intelligence groups.
+- As an Agile Transformation Lead, successfully transformed multiple projects
+to Agile - Scrum / Kanban and managed in Jira. Used Xtreme Programming
+concepts such as Pair Programming, Code review and Unit Testing.
+- Implemented data science best practices such as coding best practices,
+documentation, packaging, version control and followed DevOps / DataOps to
+deliver sustainable data products.
+- Designed and developed robust, relational and normalized databases
+containing more than 1 billion rows on MySQL / PostgreSQL RDBMS for 10+
+data products.
+- Delivered cross-functional data science projects for Yield / Microbial Traits,
+Biologics, Genomics & Data Science and R&D IT functions across India and
+USA.
+- Coordinated internship program for 10+ students from premier institutes (IIT/
+IIIT/NIT) and mentored 5 students.
+- Developed an automated microbial risk assessment pipeline for the $300
+million BioAg Alliance (a cross-industry collaboration between Monsanto and
+Novozymes) and automated generation of USDA permit reports.
+- Part of team that organizes Data Innovator, a monthly cross-functional
+Data Science hackathon for collaborative learning and solving regional data
+challenges.
+- Introduced Data Science to 1000+ biotechnology postgraduate students in
+Bangalore to develop external talent.
+- Received 25+ program, platform, technology / focused / special recognition,
+iCARE and cross-functional awards.
+
+Page 2 of 5
+
+ 
+
+ 
+
+ 
+
+Genome Life Sciences
+Scientist - II
+March 2011 - March 2013 (2 years 1 month)
+Chennai, India
+Scientist, Head (Software Development), Project/Reporting Manager
+
+- Head (Software Development) for a web-based next generation sequencing
+data product, developed using Catalyst framework, handling Illumina GA/
+HiSeq, Roche 454 and ABI SOLiD platforms.
+- Supervised design and development of mRNA Sequencing (mRNA-seq),
+Whole Genome Sequencing (WGS), Exome sequencing (Exome-seq) and
+Methylome-seq pipelines for all platforms.
+- Supervised service projects on de novo assembly of carrot genome and
+transcriptome analysis of zebrafish.
+- Contributed to writing grant proposals for various grant agencies such as
+Federal Business Opportunities (FBO).
+- Contributed to business development activities such as revamping the whole
+website of Genome (GIC), USA.
+
+University College Dublin
+Graduate Student
+April 2006 - September 2010 (4 years 6 months)
+Dublin, Ireland
+Supervisors: Prof. Denis C. Shields and Dr. Jean-Marc Jacqué
+
+- Performed meta-analysis of more than 3,000 HIV-1 nef proteins in 582
+subtype B HIV-infected patients from different disease progressions. 
+- Surveyed protein disorder in 80,000 proteins from 2,500 viruses to
+demonstrate that protein disorder varies very strikingly between and also
+within viral families. 
+- Investigated the presence of 150 eukaryotic linear motifs (ELMs) in 1,600
+eukaryotic viruses to demonstrate that viruses are enriched with short linear
+motifs.
+
+Universidad Miguel Hernández
+Research Fellow
+July 2003 - March 2006 (2 years 9 months)
+Alicante, Spain
+Supervisors: Prof. Francisco Rodríguez-Valera and Dr. Alex Mira
+
+Page 3 of 5
+
+ 
+
+ 
+
+ 
+
+- Led Bioinformatics software development for 2 European Commission
+projects related to Metagenomics - Gemini (Gene mining of metagenomes for
+novel enzymes and therapeutics) and Miracle (Microbial marine communities
+diversity: from culture to function) involving more than 10 EU countries.
+- Worked with multidisciplinary teams of summer interns, Postgraduate or PhD
+students, Postdocs and Professors from life sciences domain and managed up
+to 4 projects simultaneously.
+- Investigated evolution of genome size and architecture of more than 200
+bacterial genomes (8 publications).
+- Designed and developed Micro-Mar: world’s biggest marine microbial
+biodiversity database along with a few other databases – IWoCS, RISSC and
+RNAGeneTracer.
+- Installation, configuration, troubleshooting, administration of Linux, Apache
+HTTP and MySQL database servers.
+
+Institute of Genomics and Integrative Biology
+Research Fellow
+January 2002 - June 2003 (1 year 6 months)
+Delhi, India
+Supervisors: Prof. Samir K. Brahmachari and Dr. Debasis Dash
+
+- Part of a team of undergraduate students from IITK invited by Prof. Samir K.
+Brahmachari (Founding Director, IGIB; Former Director General, CSIR) to be
+consulted for a few challenging Bioinformatics projects at IGIB.
+- Team Lead for India’s first commercial Bioinformatics software product by
+CSIR - PLHoST (Peptide Library Based Homology Search Tool for Functional
+Annotation), branding by EY and marketed by Jalaja Technologies.
+- Designed and developed CoPS (Comprehensive Peptide Signature
+Database) with 12,076 invariant peptide signatures derived from 52 bacterial
+genomes (Prakash et al., Bioinformatics, 2004).
+- Designed a software to schedule oligonucleotide synthesis by ABI DNA
+Synthesizer (ABI 3900) that requires an optimization of each nucleotide to be
+used for each run of the machine.
+
+Education
+University College Dublin, Ireland
+Doctor of Philosophy, Bioinformatics
+
+Indian Institute of Management, Bangalore
+
+Page 4 of 5
+
+ 
+
+ 
+
+ 
+
+Executive General Management Program, General Management
+
+Indian Institute of Technology, Kanpur
+Bachelor of Technology, Electrical Engineering
+
+Page 5 of 5
+
+

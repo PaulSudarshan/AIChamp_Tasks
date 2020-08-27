@@ -1,0 +1,123 @@
+Contact
+9573999849 (Mobile)
+lbalapraneethreddy@karunya.
+edu.in
+
+www.linkedin.com/in/balapraneeth
+(LinkedIn)
+
+Top Skills
+CCNA
+Java
+Computer Networking
+
+Languages
+Telugu (Professional Working)
+Hindi (Elementary)
+English (Limited Working)
+
+Certifications
+Cisco Certified Network Associate
+Routing and Switching (CCNA
+Routing and Switching)
+Machine Learning with Python
+IBM Node-red
+Cisco Certified Entry Network
+Technician
+Palo Alto Networks Security
+Adminstrator
+
+Honors-Awards
+TEKHACK-KARUNYA
+
+ 
+
+ 
+
+ 
+
+Bala Praneeth Reddy
+
+Computer Science Graduate | CCNA | DevOps | Network and
+Security Enthusiast|
+Hyderabad
+
+Summary
+A person who strives to improve and develop new skills,  passionate
+about latest technologies. Always accepts change and ready to learn
+from others. My ultimate goal in life is to develop myself and make
+an impact on others life and help them to get better in achieving their
+dreams. On the verge to make a better society.
+
+Experience
+
+University for Information Science & Technology - Ohrid, Macedoni
+DevOps Intern
+August 2019 - September 2019 (2 months)
+Macedonia,Europe
+Providing brief insight into the project, it uses docker to virtualize the hardware
+platform of the system and with the help of container technology a web-server
+is developed to host web-applications while exposing the local domain name
+by using ngrok application. All of this might look simple and easy; However,
+the downside of this methodology is when the traffic to the web-application
+increases causing the website to malfunction. 
+
+In this case, by deploying our containers to the Kubernetes platform and
+managing all the nodes through a single interface structure provided by
+Cisco is a perfect choice. This solves the problem of scalability and provides
+redundant applications when deployed into the production environments.
+Integrating the Kubernetes cluster into the Application Centric Infrastructure
+provided by Cisco enables the visibility of the nodes while performing the
+distributed tasks given by the Master node. 
+
+SMARTBRIDGE EDUCATIONAL SERVICES PRIVATE LIMITED
+Machine Learning Intern
+December 2018 - January 2019 (2 months)
+Hyderabad Area, India
+1. Learned various algorithms used in Machine Learning and worked on
+preprocessing the real-time hospital dataset. 
+Page 1 of 2
+
+ 
+
+ 
+
+ 
+
+2. Worked with company Mentors to predict the prices of the house. 
+3. Developed a chatbot for a Restaurant that provides customers with
+assistance.
+
+IBM
+Teaching Assistant
+December 2018 - December 2018 (1 month)
+Hyderabad Area, India
+1. Conducted a two-day Hackathon in Annamacharya Institute of Technology,
+explained students about software-defined networking and cloud computing as
+an overview.
+2. Hands-on sessions on using the cloud services provided by IBM-Bluemix.
+3. Training students on developing chat-bots using IBM-cloud which
+responds to the queries of the user and Integrating them to social media web-
+applications like Facebook.
+
+New10s Online Shopping Pvt. Ltd.
+Project Intern
+March 2018 - May 2018 (3 months)
+Coimbatore Area, India
+1. Developed a web-server using a LAMP-stack in Raspberry pi (Open-suse)
+and hosting of the web-application to the server.
+2. Used NGROK to expose the localhost of the system to the public
+applications.
+3. Performed DDoS attack and crashed the site which helped to maintain
+scalability during the testing process. 
+
+Education
+Karunya University
+Bachelor of Technology, Computer Science · (2016 - 2020)
+
+Sacred heart high school
+SSC
+
+Page 2 of 2
+
+

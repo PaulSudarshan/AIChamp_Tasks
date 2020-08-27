@@ -1,0 +1,105 @@
+Contact
+sunny.mishra0389@gmail.com
+
+www.linkedin.com/in/sunny-mishra
+(LinkedIn)
+sunnymishra.com (Blog)
+
+Top Skills
+Node.js
+Java
+Architectural Design
+
+ 
+
+ 
+
+ 
+
+Sunny Mishra
+
+Senior Developer | Storyteller
+Bengaluru
+
+Summary
+An Engineer by qualification, a Software Developer by profession
+and a Storyteller by passion. I have more than a decade worth of
+work experience in Backend engineering and system design. 
+
+I am not using LinkedIn to find a job. Since 2018 my mission on
+the LinkedIn platform is to connect with junior Engineers and guide
+and mentor them to become more employable and productive at
+work. This involves one - to - one guidance over chat and publishing
+daily posts. These Daily LinkedIn posts contain a piece of advice or
+productivity ideas for software engineers, in the form of a story.
+
+Experience
+
+Envestnet | Yodlee India
+Senior Member of Technical Staff
+May 2016 - Present (4 years 4 months)
+Bangalore
+• Individual contributor and responsible for customer facing product modules.
+• Rewrote several APIs for launch of flagship product PFM (Personal Finance
+Manager).
+• Written batch tool for migrating millions of existing user’s data from old site to
+new site.
+• Built engineer’s productivity tools at work in spare time using Perforce Sdk.
+
+ThoughtFocus Technologies
+Team Lead | Senior Java Developer
+August 2013 - May 2016 (2 years 10 months)
+Bangalore
+• Implemented real-time ERP integration for eCommerce product with the core
+product.
+• Led team of 8 engineers for driving Customization efforts for eCommerce
+product Gensuite.
+• Written batch job tools to bulk load nightly CSV feed files and Linked SQL
+server to DB servers.
+
+Page 1 of 2
+
+ 
+
+ 
+
+ 
+
+• Implemented Export document (Pdf, Excel) functionality by integrating with
+Apache POI, iText and Velocity template.
+• Integrated application with Auth0, an OAuth based SaaS tool for
+authentication and Authorization module for User entity.
+• Won Best engineer award for 2015.
+
+MindTree Ltd.
+Module Lead Developer
+January 2012 - August 2013 (1 year 8 months)
+Bangalore
+• Developed end-to-end Single page application (SPA web-app) for client
+OpenText, including UI widgets in Javascript, Spring based MVC backend, and
+MySql database design. 
+• Written RestFul APIs for Android app (Genapp). Redesigned backward
+compatibility implementation of APIs for various versions of this Mobile app.
+• Won best engineer award for 2012 for the Product vertical from Client
+OpenText.
+
+Oracle
+Software developer
+August 2008 - December 2011 (3 years 5 months)
+Mumbai Area, India
+• Implemented rules engine flow for the Citibank EMEA Netbanking product.
+• Participated in architecture change to implement Internationalization of few
+Citibank JFP regional product modules.
+• Led Netbanking Go-live Engineering Support for Citibank Turkey division.
+Received appreciation from Client for leading efforts, client interaction and
+quick turnaround.
+
+Education
+Jawaharlal Institute of Technology, MP., India
+Bachelor of Engineering - BE, Computer Science
+
+St. Karen's High School, Patna
+
+Page 2 of 2
+
+

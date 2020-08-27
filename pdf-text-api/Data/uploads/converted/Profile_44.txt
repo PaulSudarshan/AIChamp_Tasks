@@ -1,0 +1,276 @@
+ 
+
+ 
+
+Contact
+BANGALORE, INDIA
++919786436525 (Home)
+rhel7.vivek@gmail.com
+
+www.linkedin.com/in/dr-vivek-
+yoganand-82a20264 (LinkedIn)
+scholar.google.fr/citations
+(Personal)
+vivekyoganand.github.io/
+(Personal)
+
+Top Skills
+Red Hat Certified Engineer (RHCE)
+Python
+IT Security Policies
+
+Languages
+English
+Tamil
+Kannada
+
+Certifications
+Oracle Cloud Infrastructure
+Developer 2020 Certified Associate
+Oracle Cloud Infrastructure 2019
+Architect Associate
+Infrastructure Foundations 2020
+Associate
+Verified International Academic
+Qualifications
+
+Honors-Awards
+Best Physique - FORM III Cert.
+- National Level participation -
+Sportsmen Merit Quota.
+Cross Country - FORM III Cert.
+- National Level participation -
+Sportsmen Merit Quota.
+Tcsworld10k Procamrunning
+IT Champions - 2017 "Technical
+Lead of the Quarter"
+Tcsworld10k Procamrunning
+
+Publications
+
+ 
+
+Dr. Vivek Yoganand
+
+PhD in Artificial Neural Network
+Bengaluru
+
+Summary
+I  ❤️ Linux ‍
+Working as Infra Dev Specialist in Cognizant,
+Being part of different technology providers/organizations like
+Data Center services  to a Value Added Distributor and a System
+integrator has helped in shaping up my career do address diverse
+markets, people and technology. Managing organizational IT
+compliance. 
+Strengths : IT Strategy, Team Building, Vendor Relationship
+Management and Negotiation skills.
+Expert in UNIX flavors and other domains like Windows, Network,
+Security, VAPT, DevOps, Ansible, Satellite Server, Azure, AWS,
+Kuberneters, Docker, Podman.
+
+Redhat Certified Engineer in Linux RHCE – 7.0 
+
+Extensively involved in, 
+★ Build the Infra and Testing Security Level policy 
+★ Deployment of various Application 
+★ Implementation of RBI Guidance 
+★ SOP/POA Review and Approval
+★ Security Patch management & Version Controller
+
+Experience
+
+Cognizant
+Infra Dev Specialist 
+May 2020 - Present (4 months)
+Bengaluru, Karnataka, India
+★ Azure DevOps 
+★ Kubernetes Development
+★ Micro services Monitoring  
+
+Page 1 of 5
+
+Design of Accident Detection System
+Based On Vehicular Networks and
+Infrastructure Networks for Future
+Generation Vehicles.
+Face detection approach from video
+with the aid of KPCM and improved
+neural network classifier
+Multiview Face Tracking In Videos
+Using Clustering And Tracklet
+Linking Technique
+Mobile Image Mining for Granite
+Quality  Detection 
+Region Growing and Modified Neural
+Network Classifier Based Face
+Detection Technique from Video
+
+Patents
+Real time health care system  for
+elderly people using fuzzy  single
+input single output model
+
+ 
+
+ 
+
+ 
+
+IBM
+Subject Matter Expert - Employee ID: FRE26928
+February 2020 - May 2020 (4 months)
+Bengaluru Area, India
+★ Team work and leadership skills  with team of L1/L2 engineers to prepare
+them for L3 support activities in future.
+★ Excellent working knowledge on the Filesystem and Logical volume
+management
+★ Strong knowledge on RHEL administration 
+★ Strong Troubleshooting skills on RHEL.
+★ Incident / Change / Problem management skill on Ticketing tools like
+service-now
+★ Vendor management to concluding RCA and Corrective Action
+★ Good experience on yum configurations and RHN network troubleshooting.
+★ Involved in preparing to automate tasks with programming (Shell scripting)
+or configuration management tools (Ansilbe, puppet), etc. is preferred.
+★ Experience in user administration / management
+★ Knowledge and hands on experience on NAS and Samba Configuration.
+★ Hands on experience on Version control systems.
+★ Hands on experience on kickstart and pxe-boot installations.
+★ Disk Administration with LVM Suite.
+★ Expertise on file system management (Linux LVM, CFS, NFS, Samba)
+★ Configuration of TCP/LAN Environment with NIS, NIS, NFS, DNS & DHCP
+★ Good remote infrastructure troubleshooting skills.
+★ Client interaction as per project needs
+★ Excellent Customer handling skills
+★ Excellent listening skills & ability to communicate clearly and fluently in
+English.
+★ Good knowledge on AD and SSSD.
+
+Ujjivan Small Finance Bank Limited
+3 years 4 months
+Patch Manager - IT Employee ID: UJJ19210
+May 2018 - January 2020 (1 year 9 months)
+Karnataka, India
+★★ Patch Manager - IT in Banking (Bangalore) Expert in Patching & Version
+Controller. Including Troubleshooting of various domains LINUX, AIX,
+SOLARIS, WINTEL, Middleware Patching, Database, Network, Firewall,
+Support Applications.
+
+Page 2 of 5
+
+ 
+
+ 
+
+ 
+
+★★ All the approved patches deploying in all production servers N-1 on
+monthly basis as per OEM Releases and End-points.
+
+★ Building the Infra and Testing Security Level Policy. 
+★ Deployment of various Applications & Troubleshooting in Cloud Infra.
+★ Excellent troubleshooting skills both with hardware and software in patching
+environment.
+★ Security Patch Management and Version Controller.
+★ Work with engineering teams to understand infrastructure requirements,
+provide insight and directions to build and scale on micros service
+orchestration engine.
+★ Establish and ensure infrastructure standards like security, reliability,
+availability, and scalability procedures are designed and maintained.
+★ Essential responsibilities towards build and maintain practices for
+deployment, monitoring and operations for building infrastructure capability.
+★ Ability to troubleshoot for complex software and infrastructure issues with
+RCA
+★ Monitor applications and services within the environments, take actions to
+resolve issues and implement strategies to prevent future occurrences.
+★ Active participant in agile process like Scrum Kanban etc.
+★ Lead, design and provide infrastructure solutions across teams.
+★ Responsible for implementation of infrastructure practices as part of CI and
+CD.
+★ Innovative thinking and introduce new features to operations of delivering
+microservice solutions.
+
+Assistant Manager - IT  Employee ID: UJJ19210
+October 2016 - April 2018 (1 year 7 months)
+Karnataka, India
+★★ Asst. Manager at Ujjivan Small Finance  Bank Limited. Worked closely
+with Infra stability team and IT Security Team to ensure all security aspects
+as per the RBI ground guidelines. Expert in Linux, Solaris, AIX, Middleware
+patching & troubleshooting.
+
+MarkOne Technologies
+Sr. System Engineer Employee ID: MT012
+December 2012 - February 2016 (3 years 3 months)
+Chennai, Tamil Nadu, India
+★ Handling Servers 6000+ on Data Center Infrastructure.
+★ Installation, Configuration and Troubleshooting of Red Hat Enterprise Linux
+in various flavors.
+
+Page 3 of 5
+
+ 
+
+ 
+
+ 
+
+★ Basic Knowledge on running and writing Shell scripting.
+★ Managing Process management, system Performance, Virtual memory,
+Disk & CPU utilization.
+★ Creating the YUM server repository.
+★ Data Compressing, Backup and recovery using tar command.
+★ Configuring SAN Storage and managing through Disk management.
+★ Monitoring the performance of the server and networks using CA-Spectrum
+and Nagios.
+★ LVM Management, Skilled on Data Redundancy technology RAID (0, 1, 5)
+and User & Group 
+administration.
+★ Configuring DNS, DHCP, NFS, FTP, SAMBA, SSH, LDAP and Mail Server.
+★ Deployment and maintenance of Linux systems and application software.
+★ Administering software and updating packages.
+★ Interact with vendors and applying Kernel, firmware, OS Patches.
+★ Shell scripting for job automation and monitoring.
+★ SAN & NAS LUN Management through Linux Native Multipath with File
+Systems (EXT4, NFS, XFS).
+★ Running and Analysis of EMC Grabs for Heterogeneous host platforms.
+★ Virtual Machine Implementation using technology Red Hat KVM and
+VMWare.
+★ Created clones and templates of Virtual Machines and Migrating VM’s using
+Vmotion.
+★ System diagnostics, driving Root Cause Analysis (RCA) and Preventative
+action and SOP doc.
+★ Administration of High Availability Cluster using Red Hat Cluster in Linux
+platform.
+★ Taking care of CA-Service desk tickets (Incident & Request) related to
+various issues and addressing 
+with adherence to SLA.
+★ Worked on day to day trouble shooting for both User and Server issues.
+★ Rotated 24/7 on-call support.
+
+Education
+Anna University
+Doctor of Philosophy - PhD, Artificial Neural Network, Computer Vision,
+Machine Learning  · (2014 - 2019)
+
+Page 4 of 5
+
+ 
+
+ 
+
+ 
+
+Bharathiar University
+Master of Business Administration - MBA, International
+Business · (2011 - 2013)
+
+SRM University
+M.Tech, Information Technology, Multimedia Technology · (2009 - 2011)
+
+Jayam College of Engineering and Technology
+B.E, Computer Science and Engineering · (2005 - 2009)
+
+Page 5 of 5
+
+
