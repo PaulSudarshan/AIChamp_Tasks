@@ -1,6 +1,8 @@
 # AIChamp_Tasks
-1. [Click Here pdf-text-API](https://pdf-text.herokuapp.com/)
-2. [Click Here analyze-resume-API](https://analyze-resume.herokuapp.com/)
+### Task 1 - Please refer to folder Profile Data.
+### Task 2 and 3 codes have been documented in the file named AIChamp-Documented Code-Sudarshan Paul.ipynb 
+### Task 4(a) API to convert PDF to text files [pdf-text-API](https://pdf-text.herokuapp.com/), code files can be found at "pdf-text-api" folder.
+### Task 4(b) API to determine Most Essential and Frequent Words [analyze-resume-API](https://analyze-resume.herokuapp.com/), code files can be found at "analyze-resume-api" folder.
 # Tasks
 1. Download 50 public profile PDFs of your connections (randomly) from LinkedIn.
 2. Extract text from the above PDFs and store them in a CSV.
